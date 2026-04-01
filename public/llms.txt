@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+leadu connects you with thriving small businesses near me and empowers women in business to grow. Start your journey with a team that champions local success today!
+
+### Services
+https://example.com/services
+Explore leadu&#39;s expert services designed for small business development center support, women in business, and entrepreneurs ready to scale fast and achieve real results.
+
+### About
+https://example.com/about
+leadu was built to champion small businesses near me and lift women in business higher. Discover our story, mission, and the values that drive every decision we make.
+
+### Contact
+https://example.com/contact
+Ready to grow? Reach out to leadu today and connect with a small business development center that truly listens. Your next big breakthrough is just one message away.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
